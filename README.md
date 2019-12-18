@@ -1,2 +1,2 @@
 # Cab-data-Analysis
-Predicting Number availing the cab on the next day - Time Series forecasting
+Predicting Number of people availing the cab on the next day - Time Series forecasting
